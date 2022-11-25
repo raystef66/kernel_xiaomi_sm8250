@@ -4,7 +4,7 @@
 
 KERNEL_DEFCONFIG=vendor/lmi_user_defconfig
 ANYKERNEL3_DIR=$PWD/AnyKernel3/
-FINAL_KERNEL_ZIP=Perf_LMI_v261_raystef66.zip
+FINAL_KERNEL_ZIP=Perf_LMI_v266_A12_raystef66.zip
 export ARCH=arm64
 
 # Speed up build process
