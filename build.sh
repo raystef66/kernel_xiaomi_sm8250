@@ -4,7 +4,7 @@
 
 KERNEL_DEFCONFIG=vendor/lmi_user_defconfig
 ANYKERNEL3_DIR=$PWD/AnyKernel3/
-FINAL_KERNEL_ZIP=Perf_LMI_v294_A13_raystef66.zip
+FINAL_KERNEL_ZIP=Perf_LMI_v295_A13_raystef66.zip
 
 # paths
 TC="/home/raystef66/kernel/prebuilts"
